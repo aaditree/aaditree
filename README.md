@@ -1,7 +1,7 @@
 # Hi, I’m Aaditree Jaisswal 👋
 
-I’m a passionate **Software Engineer** with experience in **DevOps, Reliability, and Machine Learning**.  
-I enjoy building **scalable systems**, **automating workflows**, and applying **AI/ML solutions** to solve real-world problems. Currently, I’m exploring opportunities to contribute to **innovative tech projects** and continue learning in cloud, CI/CD, and full-stack development.
+I’m a passionate **Software Engineer**.  
+I enjoy building **scalable systems**, **automating workflows**, and creating **solutions** to solve real-world problems. Currently, I’m exploring opportunities to contribute to **innovative tech projects** and continue learning in cloud, CI/CD, and full-stack development.
 
 ---
 
