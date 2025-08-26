@@ -19,7 +19,8 @@ I enjoy building **scalable systems**, **automating workflows**, and applying **
 - Portfolio: [aaditree.github.io/portfolio](https://aaditree.github.io/portfolio)  
 - GitHub: [github.com/aaditree](https://github.com/aaditree)  
 - LinkedIn: [linkedin.com/in/aaditree-jaisswal](https://www.linkedin.com/in/aaditree-jaisswal)  
-- Email: aaditreejaisswal06@gmail.com  
+- Email: aaditreejaisswal06@gmail.com
+- Recommendations: [https://www.linkedin.com/in/aaditree-jaisswal/details/recommendations/](https://www.linkedin.com/in/aaditree-jaisswal/details/recommendations/)
 
 ---
 
